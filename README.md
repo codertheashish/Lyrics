@@ -70,7 +70,7 @@ You can replace the lyrics with any song you want.
 Clone or download the project:
 
 ```bash
-https://github.com/your-username/lyrics_typer.git
+https://github.com/codertheashish/Lyrics.git
 cd lyrics-typer
 ```
 
