@@ -65,13 +65,12 @@ You can replace the lyrics with any song you want.
 
 ---
 
-## 📦 Installation
+## 📥 Clone the Repository
 
 Clone or download the project:
 
 ```bash
 https://github.com/codertheashish/Lyrics.git
-cd lyrics-typer
 ```
 
 ---
