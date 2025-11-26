@@ -1,5 +1,5 @@
 # Lyrics
-This Python script creates a typewriter-style animated lyrics display directly in the terminal. Each line of the song appears with timed typing effects, delays, and smooth transitions — giving the feel of a cinematic karaoke animation
+This Python script creates a typewriter-style animated lyrics display directly in the terminal. Each line of the song appears with timed typing effects, delays, and smooth transitions — giving the feel of a cinematic karaoke animation.
 
 ---
 
