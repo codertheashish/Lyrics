@@ -1,4 +1,4 @@
-# 🎶 Real-Time Lyrics Typer (Python CLI Animation)
+# 🎶 Real-Time Lyrics Typer
 
 A fun and engaging **Python terminal-based lyric animation tool** that simulates *real-time typing* using delays — just like cinematic subtitles.
 This project prints lyrics character-by-character with customizable speed, delays, and stylish intro effects.
