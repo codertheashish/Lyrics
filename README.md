@@ -1,8 +1,3 @@
-# Lyrics
-This Python script creates a typewriter-style animated lyrics display directly in the terminal. Each line of the song appears with timed typing effects, delays, and smooth transitions — giving the feel of a cinematic karaoke animation.
-
----
-
 # 🎶 Real-Time Lyrics Typer (Python CLI Animation)
 
 A fun and engaging **Python terminal-based lyric animation tool** that simulates *real-time typing* using delays — just like cinematic subtitles.
