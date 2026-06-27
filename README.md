@@ -62,10 +62,8 @@ You can replace the lyrics with any song you want.
 
 ## 📥 Clone the Repository
 
-Clone or download the project:
-
 ```bash
-https://github.com/codertheashish/Lyrics.git
+https://github.com/codertheashish/Lyrics
 ```
 
 ---
@@ -75,7 +73,7 @@ https://github.com/codertheashish/Lyrics.git
 Just run:
 
 ```bash
-python lyrics_typer.py
+python lyrics.py
 ```
 
 Your terminal will start printing animated lyrics.
