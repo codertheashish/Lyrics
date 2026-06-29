@@ -125,3 +125,4 @@ This project is released under the **MIT License**.
 **Ashish Kumar Prajapati**
 
 ---
+<img width="1493" height="1054" alt="Lyrics" src="https://github.com/user-attachments/assets/d91df081-9df4-497e-8ce7-dc5ad7b02faa" />
